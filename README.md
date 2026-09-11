@@ -66,3 +66,23 @@ Summarizes the major findings and provides business recommendations based on the
 ## Conclusion
 
 The analysis demonstrates that business performance should be evaluated using both sales and profitability. The insights from the dashboard can help identify strong-performing areas, investigate profitability challenges, and support better business decision-making.
+
+## Dashboard Screenshots
+
+### 1. Business Overview
+<img width="961" height="543" alt="Business Overview" src="https://github.com/user-attachments/assets/33b6092c-0d1f-4b74-af10-c03eea61204d" />
+
+### 2. Sales Performance
+<img width="963" height="544" alt="Sales Performance" src="https://github.com/user-attachments/assets/d78334a1-a7b7-465f-9850-d62a40cfa1ff" />
+
+
+### 3. Profitability Analysis
+<img width="958" height="543" alt="Profitability Analysis" src="https://github.com/user-attachments/assets/da09f8fc-8eee-4e10-8c3a-ca4cea4667ca" />
+
+
+### 4. Focus Areas
+<img width="961" height="545" alt="Focus Area" src="https://github.com/user-attachments/assets/ec9bd8e4-3281-4f3a-949e-fc41e827891e" />
+
+
+### 5. Recommendations
+<img width="962" height="545" alt="Recommendations" src="https://github.com/user-attachments/assets/8db54a21-5208-4ec2-829c-8bf6a653be55" />
